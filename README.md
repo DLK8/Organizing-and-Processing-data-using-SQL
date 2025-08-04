@@ -23,3 +23,19 @@ A foundational project focused on using SQL to transform raw data into a clean, 
 Prepared a clean and well-structured dataset, setting the stage for deeper analysis in tools like Excel, Power BI, or Python.
 
 > This project reflects my ability to handle raw databases, extract relevant information, and organize data efficiently using SQL.
+
+### Project Image
+
+![data cleaning](Project%20Image%20/sql1.png)
+
+![data cleaning](Project%20Image%20/sql2.png)
+
+![data cleaning](Project%20Image%20/sql3.png)
+
+![data cleaning](Project%20Image%20/sql4.png)
+
+![data cleaning](Project%20Image%20/sql5.png)
+
+![data cleaning](Project%20Image%20/sql6.png)
+
+![data cleaning](Project%20Image%20/sql7.png)
