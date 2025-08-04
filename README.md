@@ -5,7 +5,7 @@ A foundational project focused on using SQL to transform raw data into a clean, 
 ### Tools Used
  SQL (MySQL – based on project context)
 
-### Project Highlights:
+### Project Highlights
 - Exploring Data Structures 
   - Reviewed schema and understood table relationships  
 
